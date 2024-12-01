@@ -539,6 +539,17 @@
         "ARROW_PARQUET": "ON",
         "ARROW_FUZZING": "ON"
       }
+    },
+    {
+      "name": "xiaochen",
+      "cacheVariables": {
+        "ARROW_BUILD_EXAMPLES": "ON",
+        "ARROW_BUILD_UTILITIES": "ON",
+        "ARROW_ACERO": "ON",
+        "ARROW_DATASET": "ON",
+        "ARROW_PARQUET": "ON",
+        "ARROW_SUBSTRAIT": "ON"
+      }
     }
   ]
 }
